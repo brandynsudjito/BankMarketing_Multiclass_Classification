@@ -1,3 +1,5 @@
 # BankMarketing_Multiclass_Classification
 
 Abstract: For this project, classification was used on the bank marketing dataset, found here: https://archive.ics.uci.edu/static/public/222/bank+marketing.zip.  It was used to predict if a client has subscribed to a term deposit. Using pycaret, the dataset was tested against 16 models to determine the best for prediction. They were first compared using the baseline models, then again using ClassificationExperiment. In the end, the Light Gradient Boosting Machine model had the highest accuracy for predicting against the dataset with a 0.9161 accuracy rating.
+
+Youtube link: https://youtu.be/IbYcnNhbBzg
